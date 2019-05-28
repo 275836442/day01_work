@@ -13,6 +13,7 @@ public class Test extends HttpServlet {
 
         resp.getWriter().write("holle world");
         System.out.println("aaaa");
+        System.out.println("aaaa");
 
     }
 
